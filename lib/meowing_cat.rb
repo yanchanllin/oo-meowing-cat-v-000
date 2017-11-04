@@ -5,4 +5,3 @@ class Cat
   puts "meow!"
 end
 # maru = Cat.new
-
